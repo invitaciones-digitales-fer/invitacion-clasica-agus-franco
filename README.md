@@ -45,3 +45,9 @@ This invitation is part of a series of digital templates offered as professional
 
 ---
 
+## Author
+
+- GitHub Personal – [@fernandopizarrodw](https://github.com/fernandopizarrodw)
+- Frontend Mentor – [@fernandopizarrodw](https://www.frontendmentor.io/profile/fernandopizarrodw)
+- LinkedIn – [Fernando Pizarro](https://www.linkedin.com/in/fernandopizarro-dev/)
+
